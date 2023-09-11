@@ -1,3 +1,7 @@
+///
+/// /// Livros
+///
+
 ↪ Livros
 
     ↪ "Drawing on the Right Side of the Brain" por Betty Edwards
@@ -26,14 +30,6 @@
 
 ↪ Livros (Character Design)
 
-    ↪ "Creating Characters with Personality" por Tom Bancroft
-    https://www.amazon.com/Creating-Characters-Personality-Animation-Graphic/dp/0823023494
-
-
-    ↪ "Character Animation Crash Course!" por Eric Goldberg
-    https://www.amazon.com/Character-Animation-Crash-Course-included/dp/1879505975
-
-
     ↪ "The Animator's Survival Kit" por Richard Williams
     https://www.amazon.com.br/Animators-Survival-Kit-Principles-Classical/dp/086547897X
 
@@ -44,6 +40,14 @@
 
     ↪ "Sketching from the Imagination" (Série da 3dtotal Publishing)
     https://www.amazon.com.br/Sketching-Imagination-Creatures-Publishing-3dtotal/dp/1909414875/ref=asc_df_1909414875/?tag=googleshopp00-20&linkCode=df0&hvadid=379787628368&hvpos=&hvnetw=g&hvrand=8823955991925822295&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001773&hvtargid=pla-678849099755&psc=1
+
+
+    ↪ "Creating Characters with Personality" por Tom Bancroft
+    https://www.amazon.com/Creating-Characters-Personality-Animation-Graphic/dp/0823023494
+
+
+    ↪ "Character Animation Crash Course!" por Eric Goldberg
+    https://www.amazon.com/Character-Animation-Crash-Course-included/dp/1879505975
 
 
     ↪ "Character Design Quarterly" (Série)
@@ -78,6 +82,14 @@
 
 ↪ Livros (HQ)
 
+    ↪ "The Art of Comic Book Inking" por Gary Martin
+    https://www.amazon.com.br/Art-Comic-Book-Inking-Third/dp/150671191X
+
+
+    ↪ "Words for Pictures: The Art and Business of Writing Comics and Graphic Novels" por Brian Michael Bendis
+    https://www.amazon.com/Words-Pictures-Business-Writing-Graphic/dp/0770434355
+
+
     ↪ "Understanding Comics: The Invisible Art" por Scott McCloud
     https://www.amazon.com.br/Understanding-Comics-Invisible-Scott-McCloud/dp/006097625X
 
@@ -98,10 +110,6 @@
     https://www.amazon.com.br/Framed-Ink-Drawing-Composition-Storytellers/dp/1933492953
 
 
-    ↪ "Words for Pictures: The Art and Business of Writing Comics and Graphic Novels" por Brian Michael Bendis
-    https://www.amazon.com/Words-Pictures-Business-Writing-Graphic/dp/0770434355
-
-
     ↪ "Panel One: Comic Book Scripts by Top Writers" por Nat Gertler (Editor)
     https://www.amazon.com.br/Panel-One-Comic-Scripts-Writers/dp/0971633800
 
@@ -112,10 +120,6 @@
 
     ↪ "Dynamic Anatomy: Revised and Expanded Edition" por Burne Hogarth
     https://www.amazon.com/Dynamic-Anatomy-Expanded-Burne-Hogarth/dp/0823015521
-
-
-    ↪ "The Art of Comic Book Inking" por Gary Martin
-    https://www.amazon.com.br/Art-Comic-Book-Inking-Third/dp/150671191X
 
 
 ↪ Livros (Mangá)
@@ -152,6 +156,13 @@
     https://www.amazon.com/How-Draw-Manga-Vol-1-ebook/dp/B09BKL8FB8
 
 
+    ↪ How to Draw Manga: Basics and Beyond!
+    https://www.amazon.com.br/How-Draw-Manga-Basics-Beyond/dp/492120540X/ref=sr_1_17?__mk_pt_BR=ÅMÅŽÕÑ&crid=1064KSXW65F8U&keywords=desenhar+mangá&qid=1694391922&s=books&sprefix=desenhar+mang%2Cstripbooks%2C310&sr=1-17&ufe=app_do%3Aamzn1.fos.db68964d-7c0e-4bb2-a95c-e5cb9e32eb12
+
+
+    ↪ 
+
+
 ↪ Livros (Fantasy Creatures)
 
     ↪ "The Art of Drawing Fantasy Characters" por Jacob Glaser
@@ -184,3 +195,38 @@
 
     ↪ "ImagineFX - How to Draw and Paint Anatomy"
     https://www.creativebloq.com/imaginefx
+
+
+
+///
+/// /// Outros Materiais
+///
+
+↪ Youtube
+
+    ↪ Proko
+    https://www.youtube.com/@ProkoTV
+
+    ↪ Draw with Jazza
+    https://www.youtube.com/@Jazza
+
+    ↪ Sycra
+    https://www.youtube.com/@Sycra
+
+    ↪ Mark Crilley
+    https://www.youtube.com/@markcrilley
+
+    ↪ Ethan Becker
+    https://www.youtube.com/@EthanBecker70
+
+    ↪ ModernDayJames
+    https://www.youtube.com/@ModernDayJames
+
+    ↪ Cubebrush
+    https://www.youtube.com/@YTartschool
+
+    ↪ JelArts
+    https://www.youtube.com/@JelArts
+
+    ↪ Aaron Blaise
+    https://www.youtube.com/@AaronBlaiseArt
